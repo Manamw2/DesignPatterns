@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Adapter\\Adapter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DFB0D957-5711-445B-A51D-0C9E59BE0675}|Adapter.csproj|e:\\mahmoudamrnabil\\mahmoudamrnabil\\designpatterns\\adapter\\adapter\\models\\payitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFB0D957-5711-445B-A51D-0C9E59BE0675}|Adapter.csproj|solutionrelative:models\\payitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFB0D957-5711-445B-A51D-0C9E59BE0675}|Adapter.csproj|e:\\mahmoudamrnabil\\mahmoudamrnabil\\designpatterns\\adapter\\adapter\\adapters\\employeeadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFB0D957-5711-445B-A51D-0C9E59BE0675}|Adapter.csproj|solutionrelative:adapters\\employeeadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFB0D957-5711-445B-A51D-0C9E59BE0675}|Adapter.csproj|e:\\mahmoudamrnabil\\mahmoudamrnabil\\designpatterns\\adapter\\adapter\\adapters\\payitemadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFB0D957-5711-445B-A51D-0C9E59BE0675}|Adapter.csproj|solutionrelative:adapters\\payitemadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFB0D957-5711-445B-A51D-0C9E59BE0675}|Adapter.csproj|e:\\mahmoudamrnabil\\mahmoudamrnabil\\designpatterns\\adapter\\adapter\\adapters\\employeeadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFB0D957-5711-445B-A51D-0C9E59BE0675}|Adapter.csproj|solutionrelative:adapters\\employeeadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{801CBCBD-2503-4546-9ECE-0090D8239813}|..\\PayrollSystem\\PayrollSystem.csproj|e:\\mahmoudamrnabil\\mahmoudamrnabil\\designpatterns\\adapter\\payrollsystem\\models\\payitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801CBCBD-2503-4546-9ECE-0090D8239813}|..\\PayrollSystem\\PayrollSystem.csproj|e:\\mahmoudamrnabil\\mahmoudamrnabil\\designpatterns\\adapter\\payrollsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801CBCBD-2503-4546-9ECE-0090D8239813}|..\\PayrollSystem\\PayrollSystem.csproj|e:\\mahmoudamrnabil\\mahmoudamrnabil\\designpatterns\\adapter\\payrollsystem\\helpers\\payrollcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801CBCBD-2503-4546-9ECE-0090D8239813}|..\\PayrollSystem\\PayrollSystem.csproj|e:\\mahmoudamrnabil\\mahmoudamrnabil\\designpatterns\\adapter\\payrollsystem\\controllers\\payrollcalculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFB0D957-5711-445B-A51D-0C9E59BE0675}|Adapter.csproj|e:\\mahmoudamrnabil\\mahmoudamrnabil\\designpatterns\\adapter\\adapter\\models\\payitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFB0D957-5711-445B-A51D-0C9E59BE0675}|Adapter.csproj|solutionrelative:models\\payitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFB0D957-5711-445B-A51D-0C9E59BE0675}|Adapter.csproj|e:\\mahmoudamrnabil\\mahmoudamrnabil\\designpatterns\\adapter\\adapter\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,8 +61,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PayItem.cs",
+              "DocumentMoniker": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Adapter\\PayrollSystem\\Models\\PayItem.cs",
+              "RelativeDocumentMoniker": "..\\PayrollSystem\\Models\\PayItem.cs",
+              "ToolTip": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Adapter\\PayrollSystem\\Models\\PayItem.cs",
+              "RelativeToolTip": "..\\PayrollSystem\\Models\\PayItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:52:05.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Adapter\\PayrollSystem\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\PayrollSystem\\Models\\Employee.cs",
+              "ToolTip": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Adapter\\PayrollSystem\\Models\\Employee.cs",
+              "RelativeToolTip": "..\\PayrollSystem\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:51:57.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PayrollCalculator.cs",
+              "DocumentMoniker": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Adapter\\PayrollSystem\\Helpers\\PayrollCalculator.cs",
+              "RelativeDocumentMoniker": "..\\PayrollSystem\\Helpers\\PayrollCalculator.cs",
+              "ToolTip": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Adapter\\PayrollSystem\\Helpers\\PayrollCalculator.cs",
+              "RelativeToolTip": "..\\PayrollSystem\\Helpers\\PayrollCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:50:21.864Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -65,46 +116,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PayrollCalculatorController.cs",
+              "DocumentMoniker": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Adapter\\PayrollSystem\\Controllers\\PayrollCalculatorController.cs",
+              "RelativeDocumentMoniker": "..\\PayrollSystem\\Controllers\\PayrollCalculatorController.cs",
+              "ToolTip": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Adapter\\PayrollSystem\\Controllers\\PayrollCalculatorController.cs",
+              "RelativeToolTip": "..\\PayrollSystem\\Controllers\\PayrollCalculatorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:50:02.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "PayItemAdapter.cs",
               "DocumentMoniker": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Adapter\\Adapter\\Adapters\\PayItemAdapter.cs",
               "RelativeDocumentMoniker": "Adapters\\PayItemAdapter.cs",
               "ToolTip": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Adapter\\Adapter\\Adapters\\PayItemAdapter.cs",
               "RelativeToolTip": "Adapters\\PayItemAdapter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T10:33:15.968Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "EmployeeAdapter.cs",
               "DocumentMoniker": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Adapter\\Adapter\\Adapters\\EmployeeAdapter.cs",
               "RelativeDocumentMoniker": "Adapters\\EmployeeAdapter.cs",
               "ToolTip": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Adapter\\Adapter\\Adapters\\EmployeeAdapter.cs",
               "RelativeToolTip": "Adapters\\EmployeeAdapter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABrAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T10:33:03.065Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "PayItem.cs",
               "DocumentMoniker": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Adapter\\Adapter\\Models\\PayItem.cs",
               "RelativeDocumentMoniker": "Models\\PayItem.cs",
               "ToolTip": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Adapter\\Adapter\\Models\\PayItem.cs",
               "RelativeToolTip": "Models\\PayItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T09:52:32.348Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Adapter\\Adapter\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -116,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Employee.cs",
               "DocumentMoniker": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Adapter\\Adapter\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "Models\\Employee.cs",
@@ -128,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Employee.cs",
               "DocumentMoniker": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\PayrollSystem\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "..\\..\\PayrollSystem\\Models\\Employee.cs",
@@ -140,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "PayItem.cs",
               "DocumentMoniker": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\PayrollSystem\\Models\\PayItem.cs",
               "RelativeDocumentMoniker": "..\\..\\PayrollSystem\\Models\\PayItem.cs",
@@ -152,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "EmployeeDataReader.cs",
               "DocumentMoniker": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Adapter\\Adapter\\Data\\EmployeeDataReader.cs",
               "RelativeDocumentMoniker": "Data\\EmployeeDataReader.cs",
@@ -164,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "PayrollCalculator.cs",
               "DocumentMoniker": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\PayrollSystem\\Helpers\\PayrollCalculator.cs",
               "RelativeDocumentMoniker": "..\\..\\PayrollSystem\\Helpers\\PayrollCalculator.cs",
@@ -176,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "PayrollCalculatorController.cs",
               "DocumentMoniker": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\PayrollSystem\\Controllers\\PayrollCalculatorController.cs",
               "RelativeDocumentMoniker": "..\\..\\PayrollSystem\\Controllers\\PayrollCalculatorController.cs",
@@ -188,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\PayrollSystem\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\PayrollSystem\\Program.cs",

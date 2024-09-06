@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Strategy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87F8E402-0C3E-49FC-95ED-9D9BE6AA4CB2}|Strategy.csproj|e:\\mahmoudamrnabil\\mahmoudamrnabil\\designpatterns\\strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87F8E402-0C3E-49FC-95ED-9D9BE6AA4CB2}|Strategy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{87F8E402-0C3E-49FC-95ED-9D9BE6AA4CB2}|Strategy.csproj|e:\\mahmoudamrnabil\\mahmoudamrnabil\\designpatterns\\strategy\\helpers\\invoicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87F8E402-0C3E-49FC-95ED-9D9BE6AA4CB2}|Strategy.csproj|solutionrelative:helpers\\invoicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87F8E402-0C3E-49FC-95ED-9D9BE6AA4CB2}|Strategy.csproj|e:\\mahmoudamrnabil\\mahmoudamrnabil\\designpatterns\\strategy\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87F8E402-0C3E-49FC-95ED-9D9BE6AA4CB2}|Strategy.csproj|solutionrelative:models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87F8E402-0C3E-49FC-95ED-9D9BE6AA4CB2}|Strategy.csproj|e:\\mahmoudamrnabil\\mahmoudamrnabil\\designpatterns\\strategy\\discountstrategy\\sileverdiscountstategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87F8E402-0C3E-49FC-95ED-9D9BE6AA4CB2}|Strategy.csproj|solutionrelative:discountstrategy\\sileverdiscountstategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87F8E402-0C3E-49FC-95ED-9D9BE6AA4CB2}|Strategy.csproj|e:\\mahmoudamrnabil\\mahmoudamrnabil\\designpatterns\\strategy\\discountstrategy\\idiscountstategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87F8E402-0C3E-49FC-95ED-9D9BE6AA4CB2}|Strategy.csproj|solutionrelative:discountstrategy\\idiscountstategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87F8E402-0C3E-49FC-95ED-9D9BE6AA4CB2}|Strategy.csproj|e:\\mahmoudamrnabil\\mahmoudamrnabil\\designpatterns\\strategy\\data\\customerdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87F8E402-0C3E-49FC-95ED-9D9BE6AA4CB2}|Strategy.csproj|solutionrelative:data\\customerdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87F8E402-0C3E-49FC-95ED-9D9BE6AA4CB2}|Strategy.csproj|e:\\mahmoudamrnabil\\mahmoudamrnabil\\designpatterns\\strategy\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87F8E402-0C3E-49FC-95ED-9D9BE6AA4CB2}|Strategy.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87F8E402-0C3E-49FC-95ED-9D9BE6AA4CB2}|Strategy.csproj|e:\\mahmoudamrnabil\\mahmoudamrnabil\\designpatterns\\strategy\\discountstrategy\\customercategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F8E402-0C3E-49FC-95ED-9D9BE6AA4CB2}|Strategy.csproj|solutionrelative:discountstrategy\\customercategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87F8E402-0C3E-49FC-95ED-9D9BE6AA4CB2}|Strategy.csproj|e:\\mahmoudamrnabil\\mahmoudamrnabil\\designpatterns\\strategy\\discountstrategy\\golddiscountstategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,8 +23,24 @@
       "RelativeMoniker": "D:0:0:{87F8E402-0C3E-49FC-95ED-9D9BE6AA4CB2}|Strategy.csproj|solutionrelative:discountstrategy\\defaultdiscountstategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87F8E402-0C3E-49FC-95ED-9D9BE6AA4CB2}|Strategy.csproj|e:\\mahmoudamrnabil\\mahmoudamrnabil\\designpatterns\\strategy\\discountstrategy\\customercategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87F8E402-0C3E-49FC-95ED-9D9BE6AA4CB2}|Strategy.csproj|solutionrelative:discountstrategy\\customercategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87F8E402-0C3E-49FC-95ED-9D9BE6AA4CB2}|Strategy.csproj|e:\\mahmoudamrnabil\\mahmoudamrnabil\\designpatterns\\strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F8E402-0C3E-49FC-95ED-9D9BE6AA4CB2}|Strategy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F8E402-0C3E-49FC-95ED-9D9BE6AA4CB2}|Strategy.csproj|e:\\mahmoudamrnabil\\mahmoudamrnabil\\designpatterns\\strategy\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F8E402-0C3E-49FC-95ED-9D9BE6AA4CB2}|Strategy.csproj|solutionrelative:models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F8E402-0C3E-49FC-95ED-9D9BE6AA4CB2}|Strategy.csproj|e:\\mahmoudamrnabil\\mahmoudamrnabil\\designpatterns\\strategy\\discountstrategy\\sileverdiscountstategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F8E402-0C3E-49FC-95ED-9D9BE6AA4CB2}|Strategy.csproj|solutionrelative:discountstrategy\\sileverdiscountstategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F8E402-0C3E-49FC-95ED-9D9BE6AA4CB2}|Strategy.csproj|e:\\mahmoudamrnabil\\mahmoudamrnabil\\designpatterns\\strategy\\data\\customerdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F8E402-0C3E-49FC-95ED-9D9BE6AA4CB2}|Strategy.csproj|solutionrelative:data\\customerdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F8E402-0C3E-49FC-95ED-9D9BE6AA4CB2}|Strategy.csproj|e:\\mahmoudamrnabil\\mahmoudamrnabil\\designpatterns\\strategy\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F8E402-0C3E-49FC-95ED-9D9BE6AA4CB2}|Strategy.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87F8E402-0C3E-49FC-95ED-9D9BE6AA4CB2}|Strategy.csproj|e:\\mahmoudamrnabil\\mahmoudamrnabil\\designpatterns\\strategy\\models\\invoiceline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,17 +54,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "InvoiceManager.cs",
               "DocumentMoniker": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Strategy\\Helpers\\InvoiceManager.cs",
               "RelativeDocumentMoniker": "Helpers\\InvoiceManager.cs",
               "ToolTip": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Strategy\\Helpers\\InvoiceManager.cs",
               "RelativeToolTip": "Helpers\\InvoiceManager.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAABgAAAARAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T18:48:21.37Z",
               "IsPinned": true,
@@ -72,13 +72,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Strategy\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Strategy\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA0AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T18:04:26.068Z",
               "IsPinned": true,
@@ -98,59 +98,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SileverDiscountStategy.cs",
-              "DocumentMoniker": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Strategy\\DiscountStrategy\\SileverDiscountStategy.cs",
-              "RelativeDocumentMoniker": "DiscountStrategy\\SileverDiscountStategy.cs",
-              "ToolTip": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Strategy\\DiscountStrategy\\SileverDiscountStategy.cs",
-              "RelativeToolTip": "DiscountStrategy\\SileverDiscountStategy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T18:46:59.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "IDiscountStategy.cs",
               "DocumentMoniker": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Strategy\\DiscountStrategy\\IDiscountStategy.cs",
               "RelativeDocumentMoniker": "DiscountStrategy\\IDiscountStategy.cs",
               "ToolTip": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Strategy\\DiscountStrategy\\IDiscountStategy.cs",
               "RelativeToolTip": "DiscountStrategy\\IDiscountStategy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T18:43:16.843Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Strategy\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "Models\\Customer.cs",
-              "ToolTip": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Strategy\\Models\\Customer.cs",
-              "RelativeToolTip": "Models\\Customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T18:04:49.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Invoice.cs",
-              "DocumentMoniker": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Strategy\\Models\\Invoice.cs",
-              "RelativeDocumentMoniker": "Models\\Invoice.cs",
-              "ToolTip": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Strategy\\Models\\Invoice.cs",
-              "RelativeToolTip": "Models\\Invoice.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T18:05:16.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "CustomerDataReader.cs",
               "DocumentMoniker": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Strategy\\Data\\CustomerDataReader.cs",
               "RelativeDocumentMoniker": "Data\\CustomerDataReader.cs",
@@ -158,25 +119,24 @@
               "RelativeToolTip": "Data\\CustomerDataReader.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T18:08:59.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T18:08:59.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GoldDiscountStategy.cs",
-              "DocumentMoniker": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Strategy\\DiscountStrategy\\GoldDiscountStategy.cs",
-              "RelativeDocumentMoniker": "DiscountStrategy\\GoldDiscountStategy.cs",
-              "ToolTip": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Strategy\\DiscountStrategy\\GoldDiscountStategy.cs",
-              "RelativeToolTip": "DiscountStrategy\\GoldDiscountStategy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "DocumentIndex": 2,
+              "Title": "CustomerCategory.cs",
+              "DocumentMoniker": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Strategy\\DiscountStrategy\\CustomerCategory.cs",
+              "RelativeDocumentMoniker": "DiscountStrategy\\CustomerCategory.cs",
+              "ToolTip": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Strategy\\DiscountStrategy\\CustomerCategory.cs",
+              "RelativeToolTip": "DiscountStrategy\\CustomerCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T18:44:56.598Z",
+              "WhenOpened": "2024-08-26T18:42:10.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "DefaultDiscountStategy.cs",
               "DocumentMoniker": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Strategy\\DiscountStrategy\\DefaultDiscountStategy.cs",
               "RelativeDocumentMoniker": "DiscountStrategy\\DefaultDiscountStategy.cs",
@@ -189,16 +149,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CustomerCategory.cs",
-              "DocumentMoniker": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Strategy\\DiscountStrategy\\CustomerCategory.cs",
-              "RelativeDocumentMoniker": "DiscountStrategy\\CustomerCategory.cs",
-              "ToolTip": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Strategy\\DiscountStrategy\\CustomerCategory.cs",
-              "RelativeToolTip": "DiscountStrategy\\CustomerCategory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "DocumentIndex": 3,
+              "Title": "GoldDiscountStategy.cs",
+              "DocumentMoniker": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Strategy\\DiscountStrategy\\GoldDiscountStategy.cs",
+              "RelativeDocumentMoniker": "DiscountStrategy\\GoldDiscountStategy.cs",
+              "ToolTip": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Strategy\\DiscountStrategy\\GoldDiscountStategy.cs",
+              "RelativeToolTip": "DiscountStrategy\\GoldDiscountStategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T18:42:10.022Z",
+              "WhenOpened": "2024-08-26T18:44:56.598Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Strategy\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "Models\\Invoice.cs",
+              "ToolTip": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Strategy\\Models\\Invoice.cs",
+              "RelativeToolTip": "Models\\Invoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:05:16.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Strategy\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Strategy\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:04:49.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SileverDiscountStategy.cs",
+              "DocumentMoniker": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Strategy\\DiscountStrategy\\SileverDiscountStategy.cs",
+              "RelativeDocumentMoniker": "DiscountStrategy\\SileverDiscountStategy.cs",
+              "ToolTip": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Strategy\\DiscountStrategy\\SileverDiscountStategy.cs",
+              "RelativeToolTip": "DiscountStrategy\\SileverDiscountStategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:46:59.475Z"
             },
             {
               "$type": "Document",
@@ -210,8 +206,7 @@
               "RelativeToolTip": "Models\\InvoiceLine.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T18:05:01.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T18:05:01.547Z"
             }
           ]
         }
