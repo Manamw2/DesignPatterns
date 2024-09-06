@@ -1,0 +1,14 @@
+E:\mahmoudamrnabil\mahmoudamrnabil\DesignPatterns\Strategy\bin\Debug\net8.0\Strategy.exe
+E:\mahmoudamrnabil\mahmoudamrnabil\DesignPatterns\Strategy\bin\Debug\net8.0\Strategy.deps.json
+E:\mahmoudamrnabil\mahmoudamrnabil\DesignPatterns\Strategy\bin\Debug\net8.0\Strategy.runtimeconfig.json
+E:\mahmoudamrnabil\mahmoudamrnabil\DesignPatterns\Strategy\bin\Debug\net8.0\Strategy.dll
+E:\mahmoudamrnabil\mahmoudamrnabil\DesignPatterns\Strategy\bin\Debug\net8.0\Strategy.pdb
+E:\mahmoudamrnabil\mahmoudamrnabil\DesignPatterns\Strategy\obj\Debug\net8.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+E:\mahmoudamrnabil\mahmoudamrnabil\DesignPatterns\Strategy\obj\Debug\net8.0\Strategy.AssemblyInfoInputs.cache
+E:\mahmoudamrnabil\mahmoudamrnabil\DesignPatterns\Strategy\obj\Debug\net8.0\Strategy.AssemblyInfo.cs
+E:\mahmoudamrnabil\mahmoudamrnabil\DesignPatterns\Strategy\obj\Debug\net8.0\Strategy.csproj.CoreCompileInputs.cache
+E:\mahmoudamrnabil\mahmoudamrnabil\DesignPatterns\Strategy\obj\Debug\net8.0\Strategy.dll
+E:\mahmoudamrnabil\mahmoudamrnabil\DesignPatterns\Strategy\obj\Debug\net8.0\refint\Strategy.dll
+E:\mahmoudamrnabil\mahmoudamrnabil\DesignPatterns\Strategy\obj\Debug\net8.0\Strategy.pdb
+E:\mahmoudamrnabil\mahmoudamrnabil\DesignPatterns\Strategy\obj\Debug\net8.0\Strategy.genruntimeconfig.cache
+E:\mahmoudamrnabil\mahmoudamrnabil\DesignPatterns\Strategy\obj\Debug\net8.0\ref\Strategy.dll

@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Singleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BA46E0-45F9-4581-9286-BDD0F977069C}|Singleton.csproj|e:\\mahmoudamrnabil\\mahmoudamrnabil\\designpatterns\\singleton\\currencyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1BA46E0-45F9-4581-9286-BDD0F977069C}|Singleton.csproj|solutionrelative:currencyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BA46E0-45F9-4581-9286-BDD0F977069C}|Singleton.csproj|e:\\mahmoudamrnabil\\mahmoudamrnabil\\designpatterns\\singleton\\exchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1BA46E0-45F9-4581-9286-BDD0F977069C}|Singleton.csproj|solutionrelative:exchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BA46E0-45F9-4581-9286-BDD0F977069C}|Singleton.csproj|e:\\mahmoudamrnabil\\mahmoudamrnabil\\designpatterns\\singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1BA46E0-45F9-4581-9286-BDD0F977069C}|Singleton.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExchangeRate.cs",
+              "DocumentMoniker": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Singleton\\ExchangeRate.cs",
+              "RelativeDocumentMoniker": "ExchangeRate.cs",
+              "ToolTip": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Singleton\\ExchangeRate.cs",
+              "RelativeToolTip": "ExchangeRate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T22:43:45.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrencyConverter.cs",
+              "DocumentMoniker": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Singleton\\CurrencyConverter.cs",
+              "RelativeDocumentMoniker": "CurrencyConverter.cs",
+              "ToolTip": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Singleton\\CurrencyConverter.cs",
+              "RelativeToolTip": "CurrencyConverter.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwBUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T22:43:21.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Singleton\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\mahmoudamrnabil\\mahmoudamrnabil\\DesignPatterns\\Singleton\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T22:42:26.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
